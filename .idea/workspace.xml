@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b721c3ad-7b28-481a-89cc-609ea2918ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - crm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/idea/maven-3.3.9/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\idea\maven-3.3.9\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Yv224hgjHrvrToeBcdvgyUZ482" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crm-common/src/main/java/com/crm/utils" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/crm-systemset/crm-systemset-interface/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crm.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\TYLG\crm\crm-common\src\main\java\com\crm\utils" />
+      <recent name="E:\TYLG\crm\crm-systemset\crm-systemset-service\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CrmSystemsetApplication">
+    <configuration name="CrmGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crm-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrmRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crm-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrmSystemsetApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crm-systemset-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.crm.CrmSystemsetApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CrmSystemsetApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.2143758" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b721c3ad-7b28-481a-89cc-609ea2918ef9" name="Default Changelist" comment="" />
+      <created>1583808536588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583808536588</updated>
+      <workItem from="1583808538288" duration="801000" />
+      <workItem from="1583809402151" duration="889000" />
+      <workItem from="1583810392196" duration="560000" />
+      <workItem from="1583811039757" duration="2179000" />
+      <workItem from="1583820257129" duration="2101000" />
+      <workItem from="1583822382736" duration="88000" />
+      <workItem from="1583822493024" duration="191000" />
+      <workItem from="1583822708414" duration="586000" />
+      <workItem from="1583823324320" duration="113000" />
+      <workItem from="1583823462476" duration="1266000" />
+      <workItem from="1583824903948" duration="235000" />
+      <workItem from="1583825162794" duration="166000" />
+      <workItem from="1583825356990" duration="653000" />
+      <workItem from="1583826316618" duration="2475000" />
+      <workItem from="1583828820479" duration="2788000" />
+      <workItem from="1583831634155" duration="5529000" />
+      <workItem from="1583841001282" duration="381000" />
+      <workItem from="1583841414402" duration="141000" />
+      <workItem from="1583841578292" duration="1503000" />
+      <workItem from="1583843265791" duration="255000" />
+      <workItem from="1583843544846" duration="407000" />
+      <workItem from="1583843976730" duration="760000" />
+      <workItem from="1583888694157" duration="1685000" />
+      <workItem from="1583890692659" duration="2136000" />
+      <workItem from="1583892923662" duration="1237000" />
+      <workItem from="1583894196846" duration="322000" />
+      <workItem from="1583894540427" duration="5142000" />
+      <workItem from="1583906451464" duration="357000" />
+      <workItem from="1583906829966" duration="4391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="316" y="91" key="#Project_Structure" timestamp="1583808558235">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="91" key="#Project_Structure/0.0.1446.864@0.0.1446.864" timestamp="1583808558235" />
+    <state x="598" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583834478159">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="598" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1446.864@0.0.1446.864" timestamp="1583834478159" />
+    <state x="571" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583809080642">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="571" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1446.864@0.0.1446.864" timestamp="1583809080642" />
+    <state x="156" y="199" key="FileChooserDialogImpl" timestamp="1583913280970">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="156" y="199" key="FileChooserDialogImpl/0.0.1446.864@0.0.1446.864" timestamp="1583913280970" />
+    <state x="316" y="94" key="GrepConsoleSettings" timestamp="1583828621540">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="316" y="94" key="GrepConsoleSettings/0.0.1446.864@0.0.1446.864" timestamp="1583828621540" />
+    <state width="1079" height="224" key="GridCell.Tab.0.bottom" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.0.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.0.center" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.0.center/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.0.left" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.0.left/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.0.right" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.0.right/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.1.bottom" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.1.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.1.center" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.1.center/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.1.left" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.1.left/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="1079" height="224" key="GridCell.Tab.1.right" timestamp="1583910379230">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="1079" height="224" key="GridCell.Tab.1.right/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state x="-64" y="109" width="914" height="715" key="SettingsEditor" timestamp="1583913385016">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="-64" y="109" width="914" height="715" key="SettingsEditor/0.0.1446.864@0.0.1446.864" timestamp="1583913385016" />
+    <state x="244" y="203" key="chooseDestDirectoryDialog" timestamp="1583839214830">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="244" y="203" key="chooseDestDirectoryDialog/0.0.1446.864@0.0.1446.864" timestamp="1583839214830" />
+    <state x="43" y="119" width="852" height="557" key="new project wizard" timestamp="1583889962063">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="43" y="119" width="852" height="557" key="new project wizard/0.0.1446.864@0.0.1446.864" timestamp="1583889962063" />
+    <state x="398" y="278" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1583808578264">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="398" y="278" width="715" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1446.864@0.0.1446.864" timestamp="1583808578264" />
+    <state x="380" y="197" width="672" height="677" key="run.anything.popup" timestamp="1583822109574">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="380" y="197" width="672" height="677" key="run.anything.popup/0.0.1446.864@0.0.1446.864" timestamp="1583822109574" />
+    <state x="103" y="184" width="672" height="678" key="search.everywhere.popup" timestamp="1583896483523">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="103" y="184" width="672" height="678" key="search.everywhere.popup/0.0.1446.864@0.0.1446.864" timestamp="1583896483523" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crm-registry/src/main/java/com/crm/CrmRegistryApplication.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
