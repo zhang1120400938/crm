@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b721c3ad-7b28-481a-89cc-609ea2918ef9" name="Default Changelist" comment="" />
+    <list default="true" id="b721c3ad-7b28-481a-89cc-609ea2918ef9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_spring4all_swagger_spring_boot_starter_1_7_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-common/target/classes/com/crm/enums/ExceptionEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/crm-common/target/classes/com/crm/enums/ExceptionEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-gateway/src/main/java/com/crm/CrmGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-gateway/src/main/java/com/crm/CrmGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/crm-systemset-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/crm-systemset-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/CrmSystemsetApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/CrmSystemsetApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/web/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/web/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/CrmSystemsetApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/CrmSystemsetApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/web/controller/RoleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/crm-systemset/crm-systemset-service/target/classes/com/crm/web/controller/RoleController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +67,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\TYLG\crm\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -46,6 +89,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1Yv224hgjHrvrToeBcdvgyUZ482" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,6 +102,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -76,6 +121,9 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/crm-systemset/crm-systemset-interface/src/main/resources" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.crm.config" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.crm.mapper" />
     </key>
@@ -135,7 +183,7 @@
     <option name="viewStates">
       <list>
         <serviceView>
-          <option name="contentProportion" value="0.2143758" />
+          <option name="contentProportion" value="0.1797671" />
           <treeState>
             <expand>
               <path>
@@ -192,7 +240,13 @@
       <workItem from="1583894196846" duration="322000" />
       <workItem from="1583894540427" duration="5142000" />
       <workItem from="1583906451464" duration="357000" />
-      <workItem from="1583906829966" duration="4391000" />
+      <workItem from="1583906829966" duration="6536000" />
+      <workItem from="1583925817236" duration="1923000" />
+      <workItem from="1583928381157" duration="2093000" />
+      <workItem from="1583934820120" duration="640000" />
+      <workItem from="1583974220378" duration="2257000" />
+      <workItem from="1583976970363" duration="1997000" />
+      <workItem from="1583979023495" duration="1999000" />
     </task>
     <servers />
   </component>
@@ -208,6 +262,10 @@
       <screen x="0" y="0" width="1446" height="864" />
     </state>
     <state x="598" y="119" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1446.864@0.0.1446.864" timestamp="1583834478159" />
+    <state x="529" y="136" key="#com.intellij.ide.util.MemberChooser" timestamp="1583977957185">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state x="529" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1446.864@0.0.1446.864" timestamp="1583977957185" />
     <state x="571" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583809080642">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
@@ -220,38 +278,54 @@
       <screen x="0" y="0" width="1446" height="864" />
     </state>
     <state x="316" y="94" key="GrepConsoleSettings/0.0.1446.864@0.0.1446.864" timestamp="1583828621540" />
-    <state width="1079" height="224" key="GridCell.Tab.0.bottom" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.0.bottom" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.0.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.0.center" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.0.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.0.center" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.0.center/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.0.left" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.0.center/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.0.left" timestamp="1583981209298">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.0.left/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.0.right" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.0.left/0.0.1446.864@0.0.1446.864" timestamp="1583981209298" />
+    <state width="564" height="111" key="GridCell.Tab.0.right" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.0.right/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.1.bottom" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.0.right/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.1.bottom" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.1.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.1.center" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.1.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.1.center" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.1.center/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.1.left" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.1.center/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.1.left" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.1.left/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
-    <state width="1079" height="224" key="GridCell.Tab.1.right" timestamp="1583910379230">
+    <state width="564" height="111" key="GridCell.Tab.1.left/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="564" height="111" key="GridCell.Tab.1.right" timestamp="1583981209299">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
-    <state width="1079" height="224" key="GridCell.Tab.1.right/0.0.1446.864@0.0.1446.864" timestamp="1583910379230" />
+    <state width="564" height="111" key="GridCell.Tab.1.right/0.0.1446.864@0.0.1446.864" timestamp="1583981209299" />
+    <state width="541" height="169" key="GridCell.Tab.2.bottom" timestamp="1583979321961">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="541" height="169" key="GridCell.Tab.2.bottom/0.0.1446.864@0.0.1446.864" timestamp="1583979321961" />
+    <state width="541" height="169" key="GridCell.Tab.2.center" timestamp="1583979321961">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="541" height="169" key="GridCell.Tab.2.center/0.0.1446.864@0.0.1446.864" timestamp="1583979321961" />
+    <state width="541" height="169" key="GridCell.Tab.2.left" timestamp="1583979321961">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="541" height="169" key="GridCell.Tab.2.left/0.0.1446.864@0.0.1446.864" timestamp="1583979321961" />
+    <state width="541" height="169" key="GridCell.Tab.2.right" timestamp="1583979321961">
+      <screen x="0" y="0" width="1446" height="864" />
+    </state>
+    <state width="541" height="169" key="GridCell.Tab.2.right/0.0.1446.864@0.0.1446.864" timestamp="1583979321961" />
     <state x="-64" y="109" width="914" height="715" key="SettingsEditor" timestamp="1583913385016">
       <screen x="0" y="0" width="1446" height="864" />
     </state>
@@ -284,6 +358,11 @@
           <url>file://$PROJECT_DIR$/crm-registry/src/main/java/com/crm/CrmRegistryApplication.java</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/crm-systemset/crm-systemset-service/src/main/java/com/crm/web/controller/RoleController.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
